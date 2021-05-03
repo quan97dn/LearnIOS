@@ -1,0 +1,3 @@
+target 'exercise' do
+    pod 'SwiftDate', '~> 6.3'
+end
